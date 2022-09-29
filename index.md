@@ -1,6 +1,6 @@
 # **Welcome to Richard's User Page!**
 
-<img src="IMG_8370.JPG" width="200">
+<img src="IMG_8370.JPG 2" width="200">
 
 My name is Richard Christandi Heriawan. I am a fourth year student and majoring in Computer Science at Warren College. I have a lot experiences using C++, C, Java, HTML, Phyton, and System Verilog.
 
