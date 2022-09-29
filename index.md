@@ -1,4 +1,4 @@
-# **Welcome to My Page!**
+# **Welcome to Richard's User Page!**
 
 <img src="IMG_8370%202.jpg" width="200">
 
