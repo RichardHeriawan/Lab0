@@ -2,7 +2,18 @@
 
 <img src="IMG_8370%202.jpg" width="200">
 
-My name is Richard Christandi Heriawan. I am a fourth year student and majoring in Computer Science at Warren College UCSD. I am eager, proactive, and really enjoyed working with people. Familiar with C++, C, Java, HTML, Phyton, System Verilog, etc. I have a dog and her name is [Naomi](IMG_8728.jpg)
+My name is Richard Christandi Heriawan. I am a fourth year student and majoring in Computer Science at Warren College UCSD. I am eager, proactive, and really enjoyed working with people. 
+
+Familiar with 
+
+- C++, 
+- C, 
+- Java, 
+- HTML, 
+- Phyton, 
+- System Verilog, etc. 
+
+I have a dog and her name is [Naomi](IMG_8728.jpg). 
 
 > Computer science is no more about computers than astronomy is about telescope - Edger Djikstra
 
