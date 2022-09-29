@@ -31,6 +31,6 @@ I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi]
 
 My bucket list: 
 
-- [x] Sky Diving 
-- [ ] Bungee Jumping
-- [ ] Hiking to Mount Everest :ghost:
+- [x] Sky Diving :cloud:
+- [ ] Surfing :surfer: 
+- [ ] Hiking to Mount Everest :mount_fuji:
