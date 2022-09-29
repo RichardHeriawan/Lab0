@@ -29,10 +29,19 @@ git status
 
 I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi](IMG_8728.jpg). My hobbies are singing, playing guitar, hiking, and listening to music. 
 
+My family list:
+
+1. Handy Heriawan
+2. Lugiarsih Lokarjana
+3. Kathleen Christandi Heriawan
+4. Evelyn Christandi Heriawan
+
 My bucket list: 
 
 - [x] Sky Diving :cloud:
 - [ ] Surfing :surfer: 
 - [ ] Hiking to Mount Everest :mount_fuji:
+  
+
   
 Back to the [top](#welcome-to-richards-user-page)
