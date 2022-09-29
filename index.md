@@ -1,4 +1,4 @@
-# **Welcome to Richard's User Page!**
+# Welcome to Richard's User Page!
 
 <img src="IMG_8370%202.jpg" width="200">
 
@@ -35,4 +35,4 @@ My bucket list:
 - [ ] Surfing :surfer: 
 - [ ] Hiking to Mount Everest :mount_fuji:
   
-Back to the [top](#-**Welcome-to-Richard's-User-Page!**)
+Back to the [top](#Welcome-to-Richard's-User-Page!**)
