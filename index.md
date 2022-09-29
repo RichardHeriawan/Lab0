@@ -33,4 +33,4 @@ My bucket list:
 
 - [x] Sky Diving 
 - [ ] Bungee Jumping
-- [ ] Hiking to Mount Everest :tada:
+- [ ] Hiking to Mount Everest :cold:
