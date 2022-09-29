@@ -6,7 +6,7 @@
 
 My name is Richard Christandi Heriawan. I am a fourth year student and majoring in Computer Science at Warren College UCSD. I am eager, proactive, and really enjoyed working with people. 
 
-Familiar with 
+Familiar with: 
 
 - C++, 
 - C, 
@@ -28,3 +28,9 @@ git status
 ## As a Person
 
 I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi](IMG_8728.jpg). My hobbies are singing, playing guitar, hiking, and listening to music. 
+
+My bucket list: 
+
+- [x] Sky Diving 
+- [ ] Bungee Jumping
+- [ ] Hiking to Mount Everest :tada:
