@@ -26,3 +26,5 @@ git commit
 git status
 ```
 ## As a Person
+
+I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi](IMG_8728.jpg). My hobbies are singing, playing guitar, hiking, and listening to music. 
