@@ -6,6 +6,8 @@ My name is Richard Christandi Heriawan. I am a fourth year student and majoring 
 
 > Computer science is no more about computers than astronomy is about telescope - Edger Djikstra
 
+You can visit my Linkedin[GitHub Pages](https://www.linkedin.com/in/richard-heriawan-999580208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWZVEPgRfQuyDsilyptGWZg%3D%3D).
+
 Some basic Git commands are:
 ```
 git push
