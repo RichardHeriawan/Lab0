@@ -1,2 +1,2 @@
 # Lab0
-Richard's User Page
+My favorite programming language is C because it is easy to use
