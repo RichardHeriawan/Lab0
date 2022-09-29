@@ -35,4 +35,4 @@ My bucket list:
 - [ ] Surfing :surfer: 
 - [ ] Hiking to Mount Everest :mount_fuji:
   
-Back to the [top](#Welcome-to-Richard's-User-Page!)
+Back to the [top](#-**Welcome-to-Richard's-User-Page!**)
