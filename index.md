@@ -44,4 +44,4 @@ My bucket list:
   
 
   
-Back to the [top](#welcome-to-richards-user-page)
+Back to the [top](#welcome-to-richards-user-page) of the page
