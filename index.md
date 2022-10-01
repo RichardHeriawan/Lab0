@@ -8,12 +8,12 @@ My name is Richard Christandi Heriawan. I am a fourth year student and majoring 
 
 Familiar with: 
 
-- C++, 
-- C, 
-- Java, 
-- HTML, 
-- Phyton, 
-- System Verilog, etc. 
+- C++
+- C
+- Java
+- HTML
+- Phyton
+- System Verilog 
 
 > Computer science is no more about computers than astronomy is about telescope - Edger Djikstra
 
@@ -27,14 +27,14 @@ git status
 ```
 ## As a Person
 
-I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi](IMG_8728.jpg). My hobbies are singing, playing guitar, hiking, and listening to music. 
+I was born and raised in Bandung Indonesia. I have a dog and her name is [Naomi](IMG_8728.jpg). 
 
-My family list:
+My hobbies:
 
-1. Handy Heriawan
-2. Lugiarsih Lokarjana
-3. Kathleen Christandi Heriawan
-4. Evelyn Christandi Heriawan
+1. Singing
+2. Playing guitar
+3. Running
+4. Hiking
 
 My bucket list: 
 
