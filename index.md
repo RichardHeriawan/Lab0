@@ -6,6 +6,8 @@
 
 My name is Richard Christandi Heriawan. I am a fourth year student and majoring in Computer Science at Warren College UCSD. I am eager, proactive, and really enjoyed working with people. 
 
+> Computer science is no more about computers than astronomy is about telescope - Edger Djikstra
+
 Familiar with: 
 
 - C++
@@ -14,8 +16,6 @@ Familiar with:
 - HTML
 - Phyton
 - System Verilog 
-
-> Computer science is no more about computers than astronomy is about telescope - Edger Djikstra
 
 You can visit my Linkedin profile [Linkedin](https://www.linkedin.com/in/richard-heriawan-999580208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWZVEPgRfQuyDsilyptGWZg%3D%3D).
 
